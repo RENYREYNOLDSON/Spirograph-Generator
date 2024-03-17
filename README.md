@@ -5,3 +5,5 @@ YouTube: https://www.youtube.com/watch?v=g4z_WIGb1a0
 
 # Gallery
 ![image info](thumb.png)
+
+![image info](pic1.png)
